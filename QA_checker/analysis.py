@@ -1,5 +1,3 @@
-# photogrammetry_analysis.py
-
 import rasterio
 import numpy as np
 import os
